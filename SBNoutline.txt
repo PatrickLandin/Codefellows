@@ -1,0 +1,26 @@
+1. Seattle Beer News
+  2. Untitled Section
+  3. Untitled Section (nav)
+  4. Untitled Section (aside)
+  5. Untitled Section (aside)
+  6. Recent Comments
+    1. Untitled Section (ul)
+  7. Recent Entries
+    1. Untitled Section (ul)
+  8. Categories
+    1. Untitled Section (ul)
+  9. Archives
+    1. Untitled Section (ul)
+  10. Untitled Section
+    1. Sample Foggy Noggin Brewing’s Cease & Desist IPA at Beveridge Place Pub This Sunday
+    2. 5 Places to Grab Beers Before the Seahawks Beat the Packers
+    3. BridgePort Brewing Releases Final Beer in Trilogy Series in Collaboration with Oregon State University
+    4. Toronado Grand Opening This Saturday to Feature Some Ridiculous Beers
+    5. Seafood Beer Dinner with Breakside Brewery at The Sixgill September 22
+    6. Schilling Cider House to Open September 6 in Fremont with 32 Taps
+    7. Ghostfish Brewing Company to Open Gluten-Free Brewery in SoDo
+    8. Goose Island Brewing Migration Week Coming to Seattle (And They’re Bringing Bourbon County Variants)
+    9. Gordon Biersch Seattle Celebrates 15th Anniversary Tuesday With $0.98 Beer
+    10. “Just Stop It – Bud Select 55 vs. MGD 64″ Post – 5 Years In Review
+  11. Untitled Section
+  12. Untitled Section (footer)
