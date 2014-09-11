@@ -1,0 +1,19 @@
+<script>
+
+var  beanCount, guess, jarSize;
+
+	for (i=0; i<3; i++) {
+	jarSize = Math.floor(Math.random() * 15) + 5;
+	beanCount = jarSize * 13;
+	guess = prompt("How many jellies are in this jelly jar thing which happens to be purple and approximately " + jarSize + " fluid ounces?");
+	
+	if (guess == beanCount){
+		message = "Yay! You've guessed an amount of jellies that is correct!"
+	} else {
+		message = "You are a rubbish jelly counter.";
+	};
+};
+
+alert(message);
+
+</script>
